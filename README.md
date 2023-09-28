@@ -23,6 +23,11 @@ Astronauts use Linux because you can't open windows in space
   <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
 </p>
 
+### 📄 Publication 📄
+<p>
+ <a href="https://scholar.google.com/citations?user=JOY_TEYAAAAJ&hl=en"><img alt="Google Scholar" src="https://img.shields.io/badge/googlescholar-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white"></a>
+</p>
+
 ### ...
 <p>
   <a href="https://www.linkedin.com/in/doyoon3312/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
