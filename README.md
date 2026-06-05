@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=CFB991&height=250&section=header&text=Doyoon%20Kim&fontSize=80&animation=fadeIn&fontAlignY=30&desc=Native%20Android%20Developer&descAlignY=55&descSize=25)
+![header](https://capsule-render.vercel.app/api?type=waving&color=CFB991&height=250&section=header&text=Doyoon%20Kim&fontSize=80&animation=fadeIn&fontAlignY=30&desc=Native%20Android%20Engineer&descAlignY=55&descSize=25)
 
 <div align="left">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=CFB991&width=435&lines=Native+Android+Developer;Building+Sustainable+Application;Operating+with+an+Owner+Mindset)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=CFB991&width=435&lines=Native+Android+Engineer;Building+Sustainable+Application;Operating+with+an+Owner+Mindset)](https://git.io/typing-svg)
 
 ### Hi there 👋
 Astronauts use Linux because you can't open windows in space.  
